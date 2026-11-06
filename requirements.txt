@@ -1,0 +1,6 @@
+discord.py[voice]
+imageio-ffmpeg>=0.4.9
+yt-dlp-ejs
+yt_dlp
+discord.py
+bgutil-ytdlp-pot-provider
